@@ -6,4 +6,4 @@
 
 📖 Este projeto tem como objetivo a criação de um modelo conceitual de banco de dados para comércio eletrônico
 
-🎨 O diagrama está em PNG. Mas pode ser modelado utilizando ferramentas como MySQL Workbench, Draw.io entre outros.
+🎨 O diagrama está em PNG. Foi modelado utilizando o MySQL Workbench. Pode utilizar outras ferramentas como Draw.io, Lucidchart, Miro entre outros.
